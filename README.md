@@ -1,6 +1,6 @@
 
 <!--
-**dasom08/dasom08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dasom08/dasom08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -20,4 +20,4 @@ React, Redux를 기반으로 Web Front-End 개발이 가능한 주니어 개발�
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
