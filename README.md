@@ -6,14 +6,15 @@ React, Redux를 기반으로 Web Front-End 개발이 가능한 주니어 개발�
 - TIL : 계획한 일과 계획을 리뷰할 수 있는 캘린더 웹 (배포: https://til-log.me/ |깃헙: |소개영상:  )
 - 골라죠: 투표를 통해 답을 골라주는 고민해결 서비스 (배포: https://golazo.me/ |깃헙: |소개영상: )
 
-# :earth_asia: Languages 
+# :earth_asia: Languages & Tools
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# ⚡ Tools
+# ⚡ Education
 
 
 
