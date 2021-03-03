@@ -6,10 +6,17 @@ React, Redux를 기반으로 Web Front-End 개발이 가능한 주니어 개발�
 - TIL : 계획한 일과 계획을 리뷰할 수 있는 캘린더 웹 (배포: https://til-log.me/ |깃헙: |소개영상:  )
 - 골라죠: 투표를 통해 답을 골라주는 고민해결 서비스 (배포: https://golazo.me/ |깃헙: |소개영상: )
 
+<--! JavaScript, TypeScript, Git, React, Redux, Node.js, MySQL, HTML, CSS, Sequelize, PM2 -->
+
 # :earth_asia: Languages & Tools
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazom AWS-232F3E?style=flat-square&logo=Amazom AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
